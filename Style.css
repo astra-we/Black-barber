@@ -1,0 +1,53 @@
+body{
+  background:linear-gradient(to bottom,#0a0a0a,#1a1a1a);
+  color:white;
+  font-family:sans-serif;
+  text-align:center;
+  padding:40px;
+}
+
+h1{
+  font-size:50px;
+  color:gold;
+}
+
+p{
+  font-size:20px;
+  color:#cccccc;
+}
+
+button{
+  padding:15px 35px;
+  border:none;
+  border-radius:12px;
+  background:gold;
+  font-size:20px;
+  margin-top:20px;
+  cursor:pointer;
+  transition:0.3s;
+}button:hover{
+  transform:scale(1.05);
+}
+
+img{
+  width:90%;
+  max-width:320px;
+  border-radius:20px;
+  margin-top:30px;
+}<h2>Precios</h2>
+
+<p>Corte clásico — $5000</p>
+<p>Fade premium — $7000</p>
+<p>Barba — $3000</p>
+img{
+  box-shadow:0 0 25px rgba(255,215,0,0.3);
+}
+
+button{
+  box-shadow:0 0 20px rgba(255,215,0,0.4);
+}body{
+  max-width:500px;
+  margin:auto;
+}button:hover{
+  transform:scale(1.05);
+}
