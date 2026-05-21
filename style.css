@@ -129,4 +129,16 @@ img{
 
 .whatsapp:hover{
   transform:scale(1.08);
+}/* FOOTER */
+
+footer{
+  margin-top:60px;
+  padding:30px;
+  border-top:1px solid rgba(255,215,0,0.2);
+}
+
+footer p{
+  font-size:16px;
+  color:#999;
+  margin:10px 0;
 }
