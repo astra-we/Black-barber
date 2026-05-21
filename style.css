@@ -141,4 +141,16 @@ footer p{
   font-size:16px;
   color:#999;
   margin:10px 0;
+}/* GALERÍA */
+
+.galeria{
+  display:flex;
+  flex-direction:column;
+  gap:20px;
+  margin-top:30px;
+}
+
+.galeria img{
+  width:100%;
+  border-radius:20px;
 }
