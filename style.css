@@ -157,6 +157,8 @@ footer p{
 
 header{
   margin-bottom:50px;
+  padding:20px;
+  border-bottom:1px solid rgba(255,215,0,0.2);
 }
 
 nav{
@@ -172,6 +174,8 @@ nav a{
   text-decoration:none;
   font-size:18px;
   transition:0.3s;
+  font-weight:bold;
+  letter-spacing:1px;
 }
 
 nav a:hover{
