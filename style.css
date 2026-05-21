@@ -1,11 +1,18 @@
 body{
-  background:linear-gradient(to bottom,#0a0a0a,#1a1a1a);
+  background:
+  linear-gradient(
+  to bottom,
+  #050505,
+  #111111,
+  #1a1a1a
+  );
   color:white;
   font-family:sans-serif;
   text-align:center;
   padding:25px;
   max-width:500px;
   margin:auto;
+  min-height:100vh;
 }
 
 h1{
