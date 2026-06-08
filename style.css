@@ -329,3 +329,8 @@ nav a:hover{
   width:100%;
   max-width:700px;
 }
+
+.card{
+  opacity:0;
+  transform:translateY(40px);
+}
